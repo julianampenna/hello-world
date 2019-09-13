@@ -1,0 +1,18 @@
+{
+"nomeInstitutoUSP":"Faculdade de Economia e Administração",
+"enderecoInstitutoUSP": "Av. Professor Luciano Gualberto, 908"
+"entidadeInstitutoUSP":[
+	{"nomeEntidade":"CAVC",
+	"eventoEntidade":[
+			{"nomeEvento":"FEA no ERECO Ouro Preto",
+			"dataEvento":"14 de nov às 16:00 – 17 de nov às 19:00",
+			"localEvento": "Universidade Federal de Ouro Preto",
+			"horárioEvento": "14 de nov às 16:00 – 17 de nov às 19:00"}]},
+	{"nomeEntidade":"AtléticaFEA",
+	"eventoEntidade":[
+			{"nomeFestaAtleticaFEA":"SanFEA",
+			"dataFestaAtleticaFEA":"20/09/2019",
+			"localFestaAtleticaFEA": "Largo São Francisco, Sé, São Paulo - SP",
+			"horarioFestaAtleticaFEA": "23:59 às 06:00"}]},
+
+]}
